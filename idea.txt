@@ -1,0 +1,25 @@
+Arduinio ting:
+
+Leonardo
+breadboard
+Ledninger
+Sensor ???
+16x2 display
+TFT display (farger? touch?)
+ultralyd kort
+relemodul 1ch
+encoder
+trykknapper
+DHT22/AM2302 temp/humiditet sensor (DHT11?)
+potmeter
+servo
+RGB module?
+2 shift registere
+
+
+ethernet shield?  sd shield? SD module?
+MPU-6050 gyro +accelerometer?
+wii kontroller?
+serial TFT? 1.8"
+UBLOX GPS?
+
