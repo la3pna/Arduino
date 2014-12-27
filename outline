@@ -4,8 +4,8 @@ Outline
 
 1. 
 Intro til arduino
-Programering - OBJEKTORIENTERING
 Prototyping
+Programering - OBJEKTORIENTERING
 datatyper
 	INT/Float/Double/String/BOOL
 serieporter (hello world)
@@ -43,7 +43,4 @@ I2C nunchuck
 6.
 ultrasound
 EEPROM
-
-
-
 
