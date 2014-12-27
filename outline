@@ -1,0 +1,46 @@
+
+
+Outline
+
+1. 
+Intro til arduino
+Prototyping
+Programering - OBJEKTORIENTERING
+datatyper
+	INT/Float/Double/String/BOOL
+serieporter (hello world)
+Digitale porter (write)/(read)
+delay/millis
+
+2.
+Kontrollstrukturer
+	IF/ELSE/CASE
+	WHILE
+	FOR	
+Boolsk algebra
+Bitwise operator
+Analoge porter
+
+3. 
+Interrupts
+	Encodere
+PWM (analog out) 
+Servo
+	map
+
+4.
+Display
+	LCD 
+	TFT
+eeprom?
+
+5.
+SPI og I2C
+	shift register (spi)
+shiftout
+I2C nunchuck	
+
+6.
+ultrasound
+EEPROM
+
