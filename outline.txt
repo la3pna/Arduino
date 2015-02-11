@@ -2,6 +2,11 @@
 
 Outline
 
+7.
+Kretskort og prototyping
+
+8.
+Kretskort og prototyping
 1. 
 Intro til arduino
 Programering - OBJEKTORIENTERING
@@ -43,11 +48,6 @@ I2C nunchuck
 ultrasound
 EEPROM
 
-7.
-Kretskort og prototyping
-
-8.
-Kretskort og prototyping
 
 9.
 Lodding og SMD
