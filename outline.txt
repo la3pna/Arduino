@@ -2,13 +2,16 @@
 
 Outline
 
-7.
-Kretskort og prototyping
+1.
+Kretskort og prototyping (PCB's and prototyping)
+	Shematics in eagle
 
-8.
-Kretskort og prototyping
-1. 
-Intro til arduino
+2.
+Kretskort og prototyping (PCB's and prototyping)
+	Boards in eagle
+	getting PCB's made (OSH)
+3. 
+Intro til arduino 
 Programering - OBJEKTORIENTERING
 datatyper
 	INT/Float/Double/String/BOOL
@@ -16,7 +19,7 @@ serieporter (hello world)
 Digitale porter (write)/(read)
 delay/millis
 
-2.
+4.
 Kontrollstrukturer
 	IF/ELSE/CASE
 	WHILE
@@ -25,32 +28,31 @@ Boolsk algebra
 Bitwise operator
 Analoge porter
 
-3.
+5.
 Interrupts
 	Encodere
 PWM (analog out) 
 Servo
 	map
 
-4.
+6.
 Display
 	LCD 
 	TFT
 eeprom?
 
-5.
+7.
 SPI og I2C
 	shift register (spi)
 shiftout
-I2C nunchuck	
+I2C nunchuck?	
 
-6.
+8.
 ultrasound
 EEPROM
-
 
 9.
 Lodding og SMD
 
 10.
-Prosjekt 
+få ting  til å virke
